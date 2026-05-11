@@ -65,7 +65,7 @@ export default function App() {
             marginBottom: "24px"
           }}
         >
-          Happy Birthday ❤️
+          Happy Birthday Pratik ❤️
         </motion.h1>
 
         <motion.p
@@ -79,11 +79,11 @@ export default function App() {
             marginBottom: "32px"
           }}
         >
-          To my amazing husband,
+          You are my happiness, my safe place, and my biggest blessing.
           <br />
           You make my life beautiful every single day.
           <br />
-          Thank you for your love, care, and endless support.
+          May your day be filled with endless smiles, love, laughter, and everything your heart wishes for.
           <br />
           I’m so lucky to have you ❤️
         </motion.p>
@@ -124,7 +124,7 @@ export default function App() {
           }}
           onClick={() => alert("I love you forever ❤️")}
         >
-          Click for Surprise 💌
+         Surprise 💌
         </motion.button>
 
         <div
